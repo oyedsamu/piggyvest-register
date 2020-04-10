@@ -22,7 +22,7 @@ body {
     font-size: 100%;
 }
 
-.text-gray-700 {
+.form-text {
     color: #4a5568;
     font-weight: 700;
     font-size: 1.2rem;
@@ -35,7 +35,7 @@ body {
     min-height: 100vh;
 }
 
-#center .all-items {
+#center .crossboard {
     width: 29%;
     margin: 0 auto;
 }
